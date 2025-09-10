@@ -14,7 +14,7 @@ const STAGE_DATA = [
   { date: "2024.03", title: "6TH UMC", count: 34, type: "people" },
   { date: "2024.09", title: "7TH UMC", count: 33, type: "people" },
   { date: "2025.03", title: "8TH UMC", count: 30, type: "people" },
-  { date: "2025.09", title: "9TH UMC", count: null, type: "recruiting" },
+  { date: "2025.09", title: "9TH UMC", count: 32, type: "people" },
 ];
 
 const StageBarWrapper = styled.div`
